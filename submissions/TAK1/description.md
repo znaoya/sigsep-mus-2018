@@ -32,6 +32,9 @@ More details, experiments and analysis is described in a paper which is submitte
 The network is trained on `train` part of `musdb` for 60 epochs, where a training curve saturate.
 
 
+<img src="./MDenseLSTM.png">  
+Figure 1. MDenseLSTM architecture (scale=3). A LSTM layer is added to the bottleneck DenseBlock of MDenseNet[1].
+
 ## References
 1. N. Takahashi and Y. Mitsufuji: Multi-scale multi-band DenseNets for audio source separation, Proc. WASPAA, 2017
 2. A. A. Nugraha, A. Liutkus, and E. Vincent. "Multichannel music separation with deep neural networks." EUSIPCO, 2016.
