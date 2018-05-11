@@ -1,0 +1,5514 @@
+{
+  "targets": [
+    {
+      "frames": [
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 0.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 1.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 2.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 3.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 4.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 5.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 6.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 7.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 8.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 9.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 10.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 11.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 12.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 13.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 14.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 15.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 16.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 17.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 18.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 19.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 20.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 21.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 22.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 23.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 24.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 25.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 26.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 27.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 28.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 29.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 30.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 31.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 32.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 33.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 34.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 35.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 36.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 37.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 38.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 39.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 40.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 41.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 42.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 43.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 44.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 45.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 46.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 47.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -45.63596,
+            "ISR": 2.00310,
+            "SDR": -46.33884,
+            "SAR": 2.86500
+          },
+          "time": 48.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 1.00355,
+            "ISR": 12.98560,
+            "SDR": 2.50932,
+            "SAR": 5.91100
+          },
+          "time": 49.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.34700,
+            "ISR": 11.46903,
+            "SDR": -1.66674,
+            "SAR": 3.94104
+          },
+          "time": 50.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -0.48460,
+            "ISR": 11.94499,
+            "SDR": 1.49422,
+            "SAR": 4.92636
+          },
+          "time": 51.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -21.95674,
+            "ISR": 3.94054,
+            "SDR": -20.98403,
+            "SAR": 2.98529
+          },
+          "time": 52.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.74937,
+            "ISR": 11.38298,
+            "SDR": -0.95797,
+            "SAR": 4.56435
+          },
+          "time": 53.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 2.50291,
+            "ISR": 11.83161,
+            "SDR": 3.77407,
+            "SAR": 6.23493
+          },
+          "time": 54.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.80223,
+            "ISR": 10.52432,
+            "SDR": -1.91912,
+            "SAR": 3.90621
+          },
+          "time": 55.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.66806,
+            "ISR": 12.72186,
+            "SDR": -3.71619,
+            "SAR": 2.52785
+          },
+          "time": 56.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.27903,
+            "ISR": 12.90155,
+            "SDR": 1.33257,
+            "SAR": 3.15842
+          },
+          "time": 57.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.69596,
+            "ISR": 12.19992,
+            "SDR": -0.11248,
+            "SAR": 3.72969
+          },
+          "time": 58.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.50926,
+            "ISR": 12.12434,
+            "SDR": 0.67720,
+            "SAR": 3.64231
+          },
+          "time": 59.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 60.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 0.56731,
+            "ISR": 11.64939,
+            "SDR": 1.74822,
+            "SAR": 6.17438
+          },
+          "time": 61.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 1.67330,
+            "ISR": 12.58939,
+            "SDR": 2.57669,
+            "SAR": 6.80448
+          },
+          "time": 62.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.36728,
+            "ISR": 11.91706,
+            "SDR": -0.52848,
+            "SAR": 5.38868
+          },
+          "time": 63.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -7.48745,
+            "ISR": 11.69054,
+            "SDR": -7.78135,
+            "SAR": 2.35803
+          },
+          "time": 64.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.88955,
+            "ISR": 11.70164,
+            "SDR": -1.43490,
+            "SAR": 4.30598
+          },
+          "time": 65.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.40743,
+            "ISR": 12.34942,
+            "SDR": -1.41759,
+            "SAR": 4.15749
+          },
+          "time": 66.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -11.22401,
+            "ISR": 11.32585,
+            "SDR": -7.62104,
+            "SAR": 2.03884
+          },
+          "time": 67.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -9.14281,
+            "ISR": 10.93824,
+            "SDR": -4.72488,
+            "SAR": 1.75416
+          },
+          "time": 68.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -9.36738,
+            "ISR": 12.32017,
+            "SDR": 0.06044,
+            "SAR": 0.87963
+          },
+          "time": 69.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -9.46565,
+            "ISR": 12.28702,
+            "SDR": -1.37876,
+            "SAR": 0.89240
+          },
+          "time": 70.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.27979,
+            "ISR": 10.60728,
+            "SDR": -2.37176,
+            "SAR": 5.67571
+          },
+          "time": 71.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.99856,
+            "ISR": 11.63590,
+            "SDR": -0.88215,
+            "SAR": 4.91228
+          },
+          "time": 72.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.15816,
+            "ISR": 11.04189,
+            "SDR": -1.61065,
+            "SAR": 2.94994
+          },
+          "time": 73.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.57287,
+            "ISR": 11.44729,
+            "SDR": -1.31884,
+            "SAR": 2.88345
+          },
+          "time": 74.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -23.63359,
+            "ISR": 6.22261,
+            "SDR": -21.62963,
+            "SAR": 2.66984
+          },
+          "time": 75.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -38.02769,
+            "ISR": 5.09447,
+            "SDR": -38.79073,
+            "SAR": 2.19514
+          },
+          "time": 76.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.25344,
+            "ISR": 10.80798,
+            "SDR": 0.76113,
+            "SAR": 5.09749
+          },
+          "time": 77.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.32831,
+            "ISR": 11.74221,
+            "SDR": -1.03138,
+            "SAR": 5.86416
+          },
+          "time": 78.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -17.52884,
+            "ISR": 2.93691,
+            "SDR": -15.23838,
+            "SAR": 3.03833
+          },
+          "time": 79.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.89184,
+            "ISR": 11.93652,
+            "SDR": -1.57452,
+            "SAR": 4.48556
+          },
+          "time": 80.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 1.84733,
+            "ISR": 12.16794,
+            "SDR": 2.27915,
+            "SAR": 6.27043
+          },
+          "time": 81.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -0.79271,
+            "ISR": 12.32979,
+            "SDR": 0.05403,
+            "SAR": 4.97748
+          },
+          "time": 82.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.54469,
+            "ISR": 11.30197,
+            "SDR": -1.19112,
+            "SAR": 4.83650
+          },
+          "time": 83.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -0.46802,
+            "ISR": 12.29597,
+            "SDR": 0.43554,
+            "SAR": 5.36730
+          },
+          "time": 84.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 1.82840,
+            "ISR": 12.98737,
+            "SDR": 1.58766,
+            "SAR": 6.46278
+          },
+          "time": 85.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.01853,
+            "ISR": 13.68766,
+            "SDR": -0.02860,
+            "SAR": 6.64919
+          },
+          "time": 86.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -0.18698,
+            "ISR": 13.05930,
+            "SDR": 1.07596,
+            "SAR": 6.00226
+          },
+          "time": 87.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.19344,
+            "ISR": 11.69220,
+            "SDR": -0.07747,
+            "SAR": 3.88526
+          },
+          "time": 88.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -0.21119,
+            "ISR": 12.62428,
+            "SDR": 0.32963,
+            "SAR": 3.92971
+          },
+          "time": 89.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.37236,
+            "ISR": 12.30614,
+            "SDR": -2.29686,
+            "SAR": 3.44073
+          },
+          "time": 90.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.55350,
+            "ISR": 10.82649,
+            "SDR": -4.08595,
+            "SAR": 2.57738
+          },
+          "time": 91.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.21256,
+            "ISR": 12.70063,
+            "SDR": -2.90038,
+            "SAR": 4.05363
+          },
+          "time": 92.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.33117,
+            "ISR": 12.89963,
+            "SDR": -1.57196,
+            "SAR": 1.89631
+          },
+          "time": 93.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.84438,
+            "ISR": 13.78521,
+            "SDR": 2.58211,
+            "SAR": 2.46533
+          },
+          "time": 94.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 6.02721,
+            "ISR": 13.82979,
+            "SDR": 7.81159,
+            "SAR": 7.76216
+          },
+          "time": 95.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 6.01021,
+            "ISR": 13.85478,
+            "SDR": 8.63587,
+            "SAR": 7.95944
+          },
+          "time": 96.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 0.16448,
+            "ISR": 13.93007,
+            "SDR": 1.26419,
+            "SAR": 5.25920
+          },
+          "time": 97.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.62392,
+            "ISR": 13.74120,
+            "SDR": 2.45368,
+            "SAR": 2.20765
+          },
+          "time": 98.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.95977,
+            "ISR": 13.78698,
+            "SDR": -0.94977,
+            "SAR": 3.22407
+          },
+          "time": 99.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.23583,
+            "ISR": 13.89070,
+            "SDR": 0.12745,
+            "SAR": 1.89946
+          },
+          "time": 100.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -11.47871,
+            "ISR": 12.75126,
+            "SDR": -8.06882,
+            "SAR": 2.29012
+          },
+          "time": 101.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.56556,
+            "ISR": 16.49726,
+            "SDR": -2.53315,
+            "SAR": 8.28544
+          },
+          "time": 102.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -10.31323,
+            "ISR": 12.84268,
+            "SDR": -9.00296,
+            "SAR": 6.47983
+          },
+          "time": 103.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.29802,
+            "ISR": 12.66899,
+            "SDR": -4.02115,
+            "SAR": 7.01890
+          },
+          "time": 104.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.71530,
+            "ISR": 14.36604,
+            "SDR": -1.90554,
+            "SAR": 7.76036
+          },
+          "time": 105.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.72314,
+            "ISR": 16.11690,
+            "SDR": -2.21628,
+            "SAR": 7.79656
+          },
+          "time": 106.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.21031,
+            "ISR": 13.37832,
+            "SDR": -4.41349,
+            "SAR": 7.26658
+          },
+          "time": 107.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.58912,
+            "ISR": 12.88800,
+            "SDR": -3.58213,
+            "SAR": 7.87588
+          },
+          "time": 108.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.54358,
+            "ISR": 13.00345,
+            "SDR": -3.51823,
+            "SAR": 6.87717
+          },
+          "time": 109.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.42624,
+            "ISR": 16.47958,
+            "SDR": -3.27169,
+            "SAR": 7.10702
+          },
+          "time": 110.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -12.47650,
+            "ISR": 11.80303,
+            "SDR": -7.05065,
+            "SAR": 1.79017
+          },
+          "time": 111.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -7.03718,
+            "ISR": 13.72824,
+            "SDR": -2.32677,
+            "SAR": 2.32779
+          },
+          "time": 112.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.06423,
+            "ISR": 14.92076,
+            "SDR": -2.28149,
+            "SAR": 6.38194
+          },
+          "time": 113.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.55208,
+            "ISR": 15.16568,
+            "SDR": -4.81654,
+            "SAR": 6.37962
+          },
+          "time": 114.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.83036,
+            "ISR": 13.24324,
+            "SDR": -3.15192,
+            "SAR": 7.46985
+          },
+          "time": 115.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.58845,
+            "ISR": 12.76654,
+            "SDR": -4.31423,
+            "SAR": 5.64881
+          },
+          "time": 116.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.71159,
+            "ISR": 14.76709,
+            "SDR": -2.51508,
+            "SAR": 2.51844
+          },
+          "time": 117.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -10.62686,
+            "ISR": 15.50198,
+            "SDR": -6.30296,
+            "SAR": 1.93129
+          },
+          "time": 118.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.42425,
+            "ISR": 12.55277,
+            "SDR": -4.27949,
+            "SAR": 7.68539
+          },
+          "time": 119.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.85020,
+            "ISR": 13.97323,
+            "SDR": -1.94982,
+            "SAR": 8.14138
+          },
+          "time": 120.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.46276,
+            "ISR": 15.64334,
+            "SDR": -1.93705,
+            "SAR": 7.71982
+          },
+          "time": 121.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.61901,
+            "ISR": 13.36710,
+            "SDR": -6.01565,
+            "SAR": 7.00143
+          },
+          "time": 122.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.24328,
+            "ISR": 13.50290,
+            "SDR": -2.42674,
+            "SAR": 8.57567
+          },
+          "time": 123.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.04892,
+            "ISR": 12.79083,
+            "SDR": -3.89767,
+            "SAR": 7.41948
+          },
+          "time": 124.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.15537,
+            "ISR": 15.57356,
+            "SDR": -1.85076,
+            "SAR": 8.22740
+          },
+          "time": 125.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -10.27121,
+            "ISR": 13.19501,
+            "SDR": -9.65568,
+            "SAR": 6.13935
+          },
+          "time": 126.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.55682,
+            "ISR": 12.75719,
+            "SDR": -3.66650,
+            "SAR": 7.75614
+          },
+          "time": 127.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.59528,
+            "ISR": 14.27581,
+            "SDR": -1.91746,
+            "SAR": 7.82921
+          },
+          "time": 128.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.64417,
+            "ISR": 16.07653,
+            "SDR": -2.64697,
+            "SAR": 7.66446
+          },
+          "time": 129.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.21943,
+            "ISR": 12.95662,
+            "SDR": -5.39800,
+            "SAR": 6.36872
+          },
+          "time": 130.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.86879,
+            "ISR": 12.61360,
+            "SDR": -5.27129,
+            "SAR": 5.76081
+          },
+          "time": 131.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.20805,
+            "ISR": 12.75001,
+            "SDR": -1.53899,
+            "SAR": 6.73336
+          },
+          "time": 132.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 0.97997,
+            "ISR": 13.12868,
+            "SDR": 1.42203,
+            "SAR": 6.03117
+          },
+          "time": 133.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.67829,
+            "ISR": 11.61484,
+            "SDR": -0.72142,
+            "SAR": 4.95106
+          },
+          "time": 134.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -10.59378,
+            "ISR": 9.77200,
+            "SDR": -8.46121,
+            "SAR": 4.28354
+          },
+          "time": 135.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -24.19059,
+            "ISR": 7.79752,
+            "SDR": -19.46221,
+            "SAR": 3.35618
+          },
+          "time": 136.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -52.33782,
+            "ISR": 0.97965,
+            "SDR": -54.04336,
+            "SAR": 3.08610
+          },
+          "time": 137.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 138.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 139.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 140.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 141.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 142.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 143.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 144.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 145.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 146.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 147.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -8.73488,
+            "ISR": 12.21903,
+            "SDR": -6.72776,
+            "SAR": 2.78171
+          },
+          "time": 148.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 0.55700,
+            "ISR": 11.33754,
+            "SDR": 1.75982,
+            "SAR": 5.51217
+          },
+          "time": 149.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.88451,
+            "ISR": 12.77233,
+            "SDR": -3.37006,
+            "SAR": 3.90306
+          },
+          "time": 150.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.40419,
+            "ISR": 11.95433,
+            "SDR": 0.14355,
+            "SAR": 4.38648
+          },
+          "time": 151.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -26.75649,
+            "ISR": 7.60929,
+            "SDR": -25.62914,
+            "SAR": 2.56922
+          },
+          "time": 152.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.07918,
+            "ISR": 11.23737,
+            "SDR": 0.13106,
+            "SAR": 4.15128
+          },
+          "time": 153.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 2.03648,
+            "ISR": 12.64761,
+            "SDR": 3.35867,
+            "SAR": 6.30529
+          },
+          "time": 154.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.61121,
+            "ISR": 11.31812,
+            "SDR": -0.48118,
+            "SAR": 5.20693
+          },
+          "time": 155.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.30352,
+            "ISR": 12.38132,
+            "SDR": -1.97755,
+            "SAR": 3.89987
+          },
+          "time": 156.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 0.52293,
+            "ISR": 12.50141,
+            "SDR": 2.36033,
+            "SAR": 5.32772
+          },
+          "time": 157.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.47217,
+            "ISR": 12.46488,
+            "SDR": -1.37943,
+            "SAR": 4.84997
+          },
+          "time": 158.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.72955,
+            "ISR": 12.68817,
+            "SDR": -3.21061,
+            "SAR": 3.25443
+          },
+          "time": 159.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 160.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 0.12393,
+            "ISR": 12.13950,
+            "SDR": 0.99890,
+            "SAR": 5.96692
+          },
+          "time": 161.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -0.83742,
+            "ISR": 11.91314,
+            "SDR": 0.37481,
+            "SAR": 5.62397
+          },
+          "time": 162.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.90596,
+            "ISR": 12.74348,
+            "SDR": -2.70032,
+            "SAR": 4.89351
+          },
+          "time": 163.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.35214,
+            "ISR": 11.65852,
+            "SDR": -7.17060,
+            "SAR": 3.30422
+          },
+          "time": 164.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -9.57319,
+            "ISR": 10.93579,
+            "SDR": -1.82530,
+            "SAR": 0.81947
+          },
+          "time": 165.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -9.11023,
+            "ISR": 12.60917,
+            "SDR": 1.45101,
+            "SAR": 0.75715
+          },
+          "time": 166.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -26.21837,
+            "ISR": 12.45914,
+            "SDR": -21.08127,
+            "SAR": 0.80184
+          },
+          "time": 167.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.20880,
+            "ISR": 11.86622,
+            "SDR": -3.37106,
+            "SAR": 2.73693
+          },
+          "time": 168.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.17052,
+            "ISR": 11.64836,
+            "SDR": -1.18622,
+            "SAR": 4.79867
+          },
+          "time": 169.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.30382,
+            "ISR": 12.74533,
+            "SDR": 0.23676,
+            "SAR": 4.81337
+          },
+          "time": 170.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -13.66533,
+            "ISR": 7.66125,
+            "SDR": -10.32385,
+            "SAR": 2.87129
+          },
+          "time": 171.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.03242,
+            "ISR": 12.22746,
+            "SDR": -0.68720,
+            "SAR": 4.36222
+          },
+          "time": 172.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.87354,
+            "ISR": 11.79689,
+            "SDR": -0.97249,
+            "SAR": 3.42670
+          },
+          "time": 173.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.37429,
+            "ISR": 12.29342,
+            "SDR": -1.16173,
+            "SAR": 4.64205
+          },
+          "time": 174.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -27.22960,
+            "ISR": 4.62765,
+            "SDR": -24.85602,
+            "SAR": 3.71002
+          },
+          "time": 175.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -8.41451,
+            "ISR": 12.40528,
+            "SDR": -7.80078,
+            "SAR": 3.73400
+          },
+          "time": 176.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.03772,
+            "ISR": 10.77145,
+            "SDR": -0.94527,
+            "SAR": 3.80863
+          },
+          "time": 177.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.50879,
+            "ISR": 11.62773,
+            "SDR": -0.87851,
+            "SAR": 4.27049
+          },
+          "time": 178.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -52.54864,
+            "ISR": 5.82389,
+            "SDR": -51.65307,
+            "SAR": 3.07252
+          },
+          "time": 179.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.75718,
+            "ISR": 12.02150,
+            "SDR": -0.83944,
+            "SAR": 4.71085
+          },
+          "time": 180.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 1.50380,
+            "ISR": 12.32113,
+            "SDR": 0.64648,
+            "SAR": 4.73940
+          },
+          "time": 181.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.43030,
+            "ISR": 12.25135,
+            "SDR": -0.28875,
+            "SAR": 4.54984
+          },
+          "time": 182.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.84141,
+            "ISR": 11.05199,
+            "SDR": -0.83983,
+            "SAR": 4.42530
+          },
+          "time": 183.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 0.69268,
+            "ISR": 12.39227,
+            "SDR": 1.34834,
+            "SAR": 6.08157
+          },
+          "time": 184.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 2.40685,
+            "ISR": 13.11952,
+            "SDR": 2.99553,
+            "SAR": 7.80077
+          },
+          "time": 185.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.52093,
+            "ISR": 13.63605,
+            "SDR": -0.77779,
+            "SAR": 7.05379
+          },
+          "time": 186.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 0.68017,
+            "ISR": 12.52640,
+            "SDR": 1.60007,
+            "SAR": 6.61711
+          },
+          "time": 187.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -0.72213,
+            "ISR": 12.25919,
+            "SDR": -0.31355,
+            "SAR": 4.75086
+          },
+          "time": 188.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.55335,
+            "ISR": 12.57347,
+            "SDR": -0.87948,
+            "SAR": 2.69104
+          },
+          "time": 189.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.65727,
+            "ISR": 12.18678,
+            "SDR": 0.12841,
+            "SAR": 3.37554
+          },
+          "time": 190.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -7.28688,
+            "ISR": 10.29997,
+            "SDR": -5.60011,
+            "SAR": 3.79386
+          },
+          "time": 191.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.68066,
+            "ISR": 13.08270,
+            "SDR": -1.05582,
+            "SAR": 6.74381
+          },
+          "time": 192.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.59551,
+            "ISR": 12.97307,
+            "SDR": -1.91852,
+            "SAR": 7.34326
+          },
+          "time": 193.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.40997,
+            "ISR": 15.17434,
+            "SDR": -2.32643,
+            "SAR": 8.92241
+          },
+          "time": 194.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.64363,
+            "ISR": 13.99932,
+            "SDR": -6.38317,
+            "SAR": 6.97764
+          },
+          "time": 195.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.43309,
+            "ISR": 12.98177,
+            "SDR": -3.08745,
+            "SAR": 7.03040
+          },
+          "time": 196.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.84863,
+            "ISR": 14.24336,
+            "SDR": -1.15103,
+            "SAR": 8.41879
+          },
+          "time": 197.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.11339,
+            "ISR": 15.68339,
+            "SDR": -1.56724,
+            "SAR": 7.91244
+          },
+          "time": 198.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.90823,
+            "ISR": 13.61299,
+            "SDR": -3.38636,
+            "SAR": 6.75023
+          },
+          "time": 199.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.67025,
+            "ISR": 13.37753,
+            "SDR": -2.15404,
+            "SAR": 8.86936
+          },
+          "time": 200.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.95856,
+            "ISR": 12.74981,
+            "SDR": -3.45252,
+            "SAR": 7.33839
+          },
+          "time": 201.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.74700,
+            "ISR": 16.15261,
+            "SDR": -2.61623,
+            "SAR": 6.82603
+          },
+          "time": 202.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -9.44361,
+            "ISR": 12.37016,
+            "SDR": -8.12290,
+            "SAR": 5.60747
+          },
+          "time": 203.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.64031,
+            "ISR": 13.44360,
+            "SDR": -3.14568,
+            "SAR": 8.19289
+          },
+          "time": 204.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.10491,
+            "ISR": 14.20899,
+            "SDR": -3.14288,
+            "SAR": 5.74755
+          },
+          "time": 205.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.10393,
+            "ISR": 16.23951,
+            "SDR": -3.51439,
+            "SAR": 6.29023
+          },
+          "time": 206.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.26031,
+            "ISR": 13.12377,
+            "SDR": -3.76209,
+            "SAR": 4.86034
+          },
+          "time": 207.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.74994,
+            "ISR": 12.75857,
+            "SDR": -4.22123,
+            "SAR": 5.00801
+          },
+          "time": 208.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.48535,
+            "ISR": 14.00799,
+            "SDR": -2.94288,
+            "SAR": 8.50866
+          },
+          "time": 209.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.73887,
+            "ISR": 16.14695,
+            "SDR": -4.68209,
+            "SAR": 7.74758
+          },
+          "time": 210.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.45114,
+            "ISR": 12.50478,
+            "SDR": -5.32322,
+            "SAR": 6.78849
+          },
+          "time": 211.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.05495,
+            "ISR": 13.83076,
+            "SDR": -2.46449,
+            "SAR": 7.59589
+          },
+          "time": 212.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.74273,
+            "ISR": 15.48385,
+            "SDR": -1.97907,
+            "SAR": 5.10545
+          },
+          "time": 213.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.96084,
+            "ISR": 13.78979,
+            "SDR": -5.33657,
+            "SAR": 4.10201
+          },
+          "time": 214.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.28360,
+            "ISR": 13.38572,
+            "SDR": -2.68690,
+            "SAR": 7.95400
+          },
+          "time": 215.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.20036,
+            "ISR": 12.78873,
+            "SDR": -4.13971,
+            "SAR": 7.14028
+          },
+          "time": 216.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.45221,
+            "ISR": 15.08552,
+            "SDR": -2.24227,
+            "SAR": 7.73824
+          },
+          "time": 217.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -9.15189,
+            "ISR": 14.98190,
+            "SDR": -8.69386,
+            "SAR": 6.16494
+          },
+          "time": 218.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.27757,
+            "ISR": 12.75027,
+            "SDR": -3.73278,
+            "SAR": 3.80805
+          },
+          "time": 219.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.30676,
+            "ISR": 14.21608,
+            "SDR": -1.78381,
+            "SAR": 4.18560
+          },
+          "time": 220.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.95456,
+            "ISR": 16.10304,
+            "SDR": -2.72766,
+            "SAR": 7.11009
+          },
+          "time": 221.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.28662,
+            "ISR": 13.09667,
+            "SDR": -5.54557,
+            "SAR": 6.37214
+          },
+          "time": 222.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.63739,
+            "ISR": 13.31636,
+            "SDR": -4.36285,
+            "SAR": 6.27762
+          },
+          "time": 223.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -7.84610,
+            "ISR": 12.42696,
+            "SDR": -5.56021,
+            "SAR": 3.73299
+          },
+          "time": 224.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.20753,
+            "ISR": 14.83163,
+            "SDR": -2.05541,
+            "SAR": 4.44413
+          },
+          "time": 225.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -13.96538,
+            "ISR": 11.01557,
+            "SDR": -12.84960,
+            "SAR": 6.01731
+          },
+          "time": 226.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.40524,
+            "ISR": 16.18528,
+            "SDR": -2.95765,
+            "SAR": 8.45921
+          },
+          "time": 227.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -13.12426,
+            "ISR": 14.60960,
+            "SDR": -12.38231,
+            "SAR": 7.11298
+          },
+          "time": 228.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.30356,
+            "ISR": 16.49204,
+            "SDR": -3.16426,
+            "SAR": 8.99474
+          },
+          "time": 229.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -10.88671,
+            "ISR": 15.16892,
+            "SDR": -10.07256,
+            "SAR": 5.91024
+          },
+          "time": 230.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.51900,
+            "ISR": 16.34526,
+            "SDR": -3.81495,
+            "SAR": 3.34700
+          },
+          "time": 231.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -10.31136,
+            "ISR": 16.25076,
+            "SDR": -7.79855,
+            "SAR": 3.34578
+          },
+          "time": 232.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.15024,
+            "ISR": 16.42487,
+            "SDR": -5.13090,
+            "SAR": 7.41143
+          },
+          "time": 233.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.44735,
+            "ISR": 16.83700,
+            "SDR": -6.39537,
+            "SAR": 6.80066
+          },
+          "time": 234.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.19976,
+            "ISR": 15.48758,
+            "SDR": -5.44030,
+            "SAR": 7.07806
+          },
+          "time": 235.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.26317,
+            "ISR": 17.07307,
+            "SDR": -4.91183,
+            "SAR": 8.35731
+          },
+          "time": 236.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -6.27775,
+            "ISR": 14.25899,
+            "SDR": -5.06265,
+            "SAR": 5.74285
+          },
+          "time": 237.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.40382,
+            "ISR": 14.11171,
+            "SDR": -1.70802,
+            "SAR": 6.80303
+          },
+          "time": 238.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.91570,
+            "ISR": 12.98652,
+            "SDR": -5.57650,
+            "SAR": 4.35670
+          },
+          "time": 239.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.60336,
+            "ISR": 14.71173,
+            "SDR": -0.63991,
+            "SAR": 7.64077
+          },
+          "time": 240.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.01212,
+            "ISR": 13.47365,
+            "SDR": -3.04050,
+            "SAR": 5.59416
+          },
+          "time": 241.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.69242,
+            "ISR": 14.50748,
+            "SDR": -1.35952,
+            "SAR": 5.93276
+          },
+          "time": 242.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -4.46199,
+            "ISR": 13.29101,
+            "SDR": -3.26460,
+            "SAR": 6.44109
+          },
+          "time": 243.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.01207,
+            "ISR": 14.95354,
+            "SDR": -1.56586,
+            "SAR": 8.40017
+          },
+          "time": 244.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.02520,
+            "ISR": 13.14870,
+            "SDR": -4.18438,
+            "SAR": 6.75583
+          },
+          "time": 245.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.68495,
+            "ISR": 14.32369,
+            "SDR": -0.99573,
+            "SAR": 6.41971
+          },
+          "time": 246.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.96382,
+            "ISR": 13.63218,
+            "SDR": -2.99408,
+            "SAR": 6.12567
+          },
+          "time": 247.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.50972,
+            "ISR": 15.04174,
+            "SDR": -1.30175,
+            "SAR": 8.03854
+          },
+          "time": 248.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.96693,
+            "ISR": 13.20083,
+            "SDR": -3.28097,
+            "SAR": 7.12089
+          },
+          "time": 249.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -1.66829,
+            "ISR": 14.08830,
+            "SDR": -1.13077,
+            "SAR": 7.61417
+          },
+          "time": 250.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.55185,
+            "ISR": 14.46225,
+            "SDR": -2.67280,
+            "SAR": 7.05953
+          },
+          "time": 251.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -2.31829,
+            "ISR": 15.19729,
+            "SDR": -1.89209,
+            "SAR": 7.72871
+          },
+          "time": 252.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -5.19679,
+            "ISR": 13.80345,
+            "SDR": -3.63256,
+            "SAR": 3.60947
+          },
+          "time": 253.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -3.20995,
+            "ISR": 14.32147,
+            "SDR": -1.94301,
+            "SAR": 4.84558
+          },
+          "time": 254.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -0.95465,
+            "ISR": 14.89830,
+            "SDR": -0.21959,
+            "SAR": 5.29637
+          },
+          "time": 255.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 2.23904,
+            "ISR": 14.98367,
+            "SDR": 3.03308,
+            "SAR": 4.67162
+          },
+          "time": 256.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 2.93938,
+            "ISR": 14.93447,
+            "SDR": 2.72141,
+            "SAR": 6.68072
+          },
+          "time": 257.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 5.30755,
+            "ISR": 16.10128,
+            "SDR": 5.36538,
+            "SAR": 8.51464
+          },
+          "time": 258.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 6.74896,
+            "ISR": 17.23800,
+            "SDR": 8.58622,
+            "SAR": 9.18980
+          },
+          "time": 259.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 7.95282,
+            "ISR": 15.44012,
+            "SDR": 8.38218,
+            "SAR": 9.40085
+          },
+          "time": 260.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 8.44553,
+            "ISR": 17.06701,
+            "SDR": 9.63044,
+            "SAR": 10.88242
+          },
+          "time": 261.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 6.72301,
+            "ISR": 15.50921,
+            "SDR": 7.72459,
+            "SAR": 8.47113
+          },
+          "time": 262.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -37.55219,
+            "ISR": 12.94276,
+            "SDR": -21.60645,
+            "SAR": 0.17666
+          },
+          "time": 263.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": -64.93415,
+            "ISR": -4.64272,
+            "SDR": -53.11313,
+            "SAR": 0.08019
+          },
+          "time": 264.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 265.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 266.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 267.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 268.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 269.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 270.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 271.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 272.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 273.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 274.0
+        }
+      ],
+      "name": "vocals"
+    },
+    {
+      "frames": [
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 0.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 1.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 2.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 3.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 4.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 5.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 6.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 7.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 8.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 9.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 10.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 11.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 12.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 13.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 14.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 15.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 16.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 17.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 18.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 19.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 20.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 21.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 22.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 23.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 24.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 25.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 26.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 27.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 28.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 29.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 30.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 31.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 32.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 33.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 34.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 35.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 36.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 37.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 38.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 39.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 40.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 41.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 42.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 43.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 44.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 45.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 46.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 47.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 56.98297,
+            "ISR": 9.07141,
+            "SDR": 9.98087,
+            "SAR": 10.68903
+          },
+          "time": 48.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.20672,
+            "ISR": 11.00636,
+            "SDR": 10.70712,
+            "SAR": 12.28288
+          },
+          "time": 49.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.16668,
+            "ISR": 10.53498,
+            "SDR": 10.92149,
+            "SAR": 11.91830
+          },
+          "time": 50.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.10764,
+            "ISR": 11.47771,
+            "SDR": 11.31647,
+            "SAR": 12.58418
+          },
+          "time": 51.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 36.39784,
+            "ISR": 10.72534,
+            "SDR": 11.42522,
+            "SAR": 12.35548
+          },
+          "time": 52.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.50308,
+            "ISR": 10.71713,
+            "SDR": 10.17312,
+            "SAR": 12.14900
+          },
+          "time": 53.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.73328,
+            "ISR": 12.32727,
+            "SDR": 11.40391,
+            "SAR": 13.29139
+          },
+          "time": 54.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.92416,
+            "ISR": 10.80031,
+            "SDR": 10.19024,
+            "SAR": 12.08453
+          },
+          "time": 55.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 25.27654,
+            "ISR": 8.33432,
+            "SDR": 9.47075,
+            "SAR": 9.13878
+          },
+          "time": 56.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.87664,
+            "ISR": 8.06905,
+            "SDR": 9.91301,
+            "SAR": 8.44074
+          },
+          "time": 57.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.48826,
+            "ISR": 10.25102,
+            "SDR": 10.85446,
+            "SAR": 11.07943
+          },
+          "time": 58.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.11569,
+            "ISR": 9.25092,
+            "SDR": 10.40795,
+            "SAR": 9.85070
+          },
+          "time": 59.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 60.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.22506,
+            "ISR": 10.45094,
+            "SDR": 9.42692,
+            "SAR": 12.03508
+          },
+          "time": 61.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.98462,
+            "ISR": 11.87524,
+            "SDR": 10.80488,
+            "SAR": 13.78463
+          },
+          "time": 62.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.04455,
+            "ISR": 10.01115,
+            "SDR": 10.72112,
+            "SAR": 12.52905
+          },
+          "time": 63.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.76575,
+            "ISR": 6.18771,
+            "SDR": 3.79679,
+            "SAR": 5.08436
+          },
+          "time": 64.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.12008,
+            "ISR": 8.05480,
+            "SDR": 7.36472,
+            "SAR": 8.99065
+          },
+          "time": 65.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.71666,
+            "ISR": 10.95017,
+            "SDR": 8.96090,
+            "SAR": 11.49502
+          },
+          "time": 66.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 26.56857,
+            "ISR": 7.29305,
+            "SDR": 8.55245,
+            "SAR": 7.76544
+          },
+          "time": 67.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 24.26332,
+            "ISR": 7.23165,
+            "SDR": 9.24523,
+            "SAR": 7.48739
+          },
+          "time": 68.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.76334,
+            "ISR": 1.86057,
+            "SDR": 9.26075,
+            "SAR": 3.25551
+          },
+          "time": 69.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 24.54530,
+            "ISR": 4.06924,
+            "SDR": 10.18689,
+            "SAR": 4.82711
+          },
+          "time": 70.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.28007,
+            "ISR": 10.12968,
+            "SDR": 9.41298,
+            "SAR": 12.99634
+          },
+          "time": 71.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.51356,
+            "ISR": 9.37853,
+            "SDR": 8.23368,
+            "SAR": 10.73935
+          },
+          "time": 72.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.96236,
+            "ISR": 8.79824,
+            "SDR": 9.10059,
+            "SAR": 9.28551
+          },
+          "time": 73.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.39266,
+            "ISR": 9.30587,
+            "SDR": 10.28471,
+            "SAR": 9.92350
+          },
+          "time": 74.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 37.12578,
+            "ISR": 8.67218,
+            "SDR": 9.53645,
+            "SAR": 9.89819
+          },
+          "time": 75.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 50.49748,
+            "ISR": 9.33616,
+            "SDR": 7.85793,
+            "SAR": 9.78560
+          },
+          "time": 76.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.87723,
+            "ISR": 10.19959,
+            "SDR": 9.77733,
+            "SAR": 11.59798
+          },
+          "time": 77.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.59615,
+            "ISR": 8.17993,
+            "SDR": 7.36126,
+            "SAR": 10.24166
+          },
+          "time": 78.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 27.08197,
+            "ISR": 8.23655,
+            "SDR": 9.07783,
+            "SAR": 9.74417
+          },
+          "time": 79.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.49967,
+            "ISR": 8.27694,
+            "SDR": 7.41020,
+            "SAR": 9.27451
+          },
+          "time": 80.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 17.55079,
+            "ISR": 10.43128,
+            "SDR": 8.71841,
+            "SAR": 11.57630
+          },
+          "time": 81.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.21214,
+            "ISR": 9.39841,
+            "SDR": 8.20215,
+            "SAR": 10.18717
+          },
+          "time": 82.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.69788,
+            "ISR": 9.41648,
+            "SDR": 7.54680,
+            "SAR": 10.25782
+          },
+          "time": 83.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.11917,
+            "ISR": 9.81175,
+            "SDR": 8.65311,
+            "SAR": 10.97248
+          },
+          "time": 84.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.05304,
+            "ISR": 10.25917,
+            "SDR": 8.02978,
+            "SAR": 11.28977
+          },
+          "time": 85.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.89333,
+            "ISR": 9.14464,
+            "SDR": 8.42572,
+            "SAR": 11.86593
+          },
+          "time": 86.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.13320,
+            "ISR": 8.93987,
+            "SDR": 8.28549,
+            "SAR": 10.68260
+          },
+          "time": 87.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.59372,
+            "ISR": 7.76459,
+            "SDR": 7.83168,
+            "SAR": 8.31860
+          },
+          "time": 88.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.77629,
+            "ISR": 9.87913,
+            "SDR": 8.43788,
+            "SAR": 9.85553
+          },
+          "time": 89.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.59430,
+            "ISR": 7.27386,
+            "SDR": 7.38222,
+            "SAR": 7.75189
+          },
+          "time": 90.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.87069,
+            "ISR": 7.84513,
+            "SDR": 8.07828,
+            "SAR": 8.21390
+          },
+          "time": 91.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.51514,
+            "ISR": 8.73317,
+            "SDR": 8.07489,
+            "SAR": 9.99278
+          },
+          "time": 92.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.16336,
+            "ISR": 5.08432,
+            "SDR": 7.92951,
+            "SAR": 5.52009
+          },
+          "time": 93.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.69304,
+            "ISR": 2.88281,
+            "SDR": 7.53058,
+            "SAR": 3.74296
+          },
+          "time": 94.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 13.95162,
+            "ISR": 9.45194,
+            "SDR": 9.40386,
+            "SAR": 8.88740
+          },
+          "time": 95.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 14.96073,
+            "ISR": 10.16982,
+            "SDR": 11.02919,
+            "SAR": 9.97275
+          },
+          "time": 96.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.44878,
+            "ISR": 7.89784,
+            "SDR": 7.25665,
+            "SAR": 8.54968
+          },
+          "time": 97.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.57203,
+            "ISR": 7.35296,
+            "SDR": 11.61640,
+            "SAR": 7.43772
+          },
+          "time": 98.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.40584,
+            "ISR": 8.14363,
+            "SDR": 9.35500,
+            "SAR": 9.01390
+          },
+          "time": 99.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.88961,
+            "ISR": 6.62988,
+            "SDR": 10.26996,
+            "SAR": 7.08800
+          },
+          "time": 100.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 25.57425,
+            "ISR": 4.10274,
+            "SDR": 5.64287,
+            "SAR": 4.94515
+          },
+          "time": 101.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.87085,
+            "ISR": 5.96584,
+            "SDR": 4.81048,
+            "SAR": 9.38617
+          },
+          "time": 102.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 24.43563,
+            "ISR": 5.93708,
+            "SDR": 5.26167,
+            "SAR": 9.19317
+          },
+          "time": 103.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.99803,
+            "ISR": 6.94066,
+            "SDR": 6.21389,
+            "SAR": 10.78487
+          },
+          "time": 104.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.12935,
+            "ISR": 6.30059,
+            "SDR": 5.47553,
+            "SAR": 9.59939
+          },
+          "time": 105.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.00712,
+            "ISR": 6.12321,
+            "SDR": 5.37870,
+            "SAR": 9.38731
+          },
+          "time": 106.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.36999,
+            "ISR": 6.18950,
+            "SDR": 5.20211,
+            "SAR": 9.54825
+          },
+          "time": 107.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.36559,
+            "ISR": 6.96143,
+            "SDR": 6.03630,
+            "SAR": 11.24559
+          },
+          "time": 108.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.40175,
+            "ISR": 6.09290,
+            "SDR": 5.22190,
+            "SAR": 9.30157
+          },
+          "time": 109.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.70288,
+            "ISR": 6.24134,
+            "SDR": 5.26073,
+            "SAR": 9.33485
+          },
+          "time": 110.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 24.62453,
+            "ISR": 2.73763,
+            "SDR": 5.99661,
+            "SAR": 3.76868
+          },
+          "time": 111.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.67686,
+            "ISR": 2.91603,
+            "SDR": 5.96340,
+            "SAR": 3.94972
+          },
+          "time": 112.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.67526,
+            "ISR": 5.80641,
+            "SDR": 5.10080,
+            "SAR": 7.81918
+          },
+          "time": 113.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.51751,
+            "ISR": 5.83761,
+            "SDR": 5.17284,
+            "SAR": 8.48301
+          },
+          "time": 114.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.15915,
+            "ISR": 7.69136,
+            "SDR": 6.57381,
+            "SAR": 11.73725
+          },
+          "time": 115.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.79731,
+            "ISR": 5.80864,
+            "SDR": 5.09312,
+            "SAR": 7.84877
+          },
+          "time": 116.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.06664,
+            "ISR": 2.46468,
+            "SDR": 5.28490,
+            "SAR": 3.51229
+          },
+          "time": 117.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 27.10009,
+            "ISR": 2.73339,
+            "SDR": 5.71451,
+            "SAR": 3.74255
+          },
+          "time": 118.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.88440,
+            "ISR": 6.40497,
+            "SDR": 5.50371,
+            "SAR": 10.45248
+          },
+          "time": 119.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.32034,
+            "ISR": 7.20773,
+            "SDR": 6.41686,
+            "SAR": 11.51783
+          },
+          "time": 120.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.10432,
+            "ISR": 6.05030,
+            "SDR": 5.27023,
+            "SAR": 9.07968
+          },
+          "time": 121.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.18428,
+            "ISR": 6.60220,
+            "SDR": 5.41244,
+            "SAR": 10.06673
+          },
+          "time": 122.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.04534,
+            "ISR": 7.18660,
+            "SDR": 6.22336,
+            "SAR": 11.89582
+          },
+          "time": 123.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.09066,
+            "ISR": 6.47090,
+            "SDR": 5.64695,
+            "SAR": 10.41295
+          },
+          "time": 124.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.56633,
+            "ISR": 6.41111,
+            "SDR": 5.44752,
+            "SAR": 10.25196
+          },
+          "time": 125.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 25.21442,
+            "ISR": 6.32722,
+            "SDR": 5.01940,
+            "SAR": 9.29746
+          },
+          "time": 126.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.66187,
+            "ISR": 7.33119,
+            "SDR": 6.22204,
+            "SAR": 11.70604
+          },
+          "time": 127.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.62822,
+            "ISR": 6.19000,
+            "SDR": 5.21888,
+            "SAR": 9.28004
+          },
+          "time": 128.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.74653,
+            "ISR": 6.15116,
+            "SDR": 4.88630,
+            "SAR": 9.02475
+          },
+          "time": 129.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.46514,
+            "ISR": 6.48269,
+            "SDR": 5.37722,
+            "SAR": 9.50305
+          },
+          "time": 130.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.62913,
+            "ISR": 6.45910,
+            "SDR": 5.05547,
+            "SAR": 8.76313
+          },
+          "time": 131.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.18393,
+            "ISR": 7.34094,
+            "SDR": 6.00554,
+            "SAR": 9.84062
+          },
+          "time": 132.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.27377,
+            "ISR": 10.23392,
+            "SDR": 8.74296,
+            "SAR": 11.49091
+          },
+          "time": 133.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.62316,
+            "ISR": 10.65444,
+            "SDR": 9.37427,
+            "SAR": 12.16275
+          },
+          "time": 134.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 27.52616,
+            "ISR": 10.81423,
+            "SDR": 10.17354,
+            "SAR": 13.54725
+          },
+          "time": 135.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 37.78306,
+            "ISR": 10.26227,
+            "SDR": 11.26182,
+            "SAR": 12.28782
+          },
+          "time": 136.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 60.88150,
+            "ISR": 10.03612,
+            "SDR": 10.36385,
+            "SAR": 11.75040
+          },
+          "time": 137.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 138.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 139.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 140.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 141.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 142.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 143.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 144.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 145.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 146.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 147.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 27.57989,
+            "ISR": 9.71926,
+            "SDR": 9.62491,
+            "SAR": 10.63634
+          },
+          "time": 148.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.46257,
+            "ISR": 10.96581,
+            "SDR": 9.81655,
+            "SAR": 11.98799
+          },
+          "time": 149.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 26.84237,
+            "ISR": 12.00229,
+            "SDR": 11.55683,
+            "SAR": 13.62969
+          },
+          "time": 150.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.53693,
+            "ISR": 10.08113,
+            "SDR": 9.63199,
+            "SAR": 10.88855
+          },
+          "time": 151.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 41.28122,
+            "ISR": 9.05647,
+            "SDR": 8.53170,
+            "SAR": 10.16353
+          },
+          "time": 152.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.30870,
+            "ISR": 10.20865,
+            "SDR": 10.13196,
+            "SAR": 11.13804
+          },
+          "time": 153.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.45434,
+            "ISR": 11.68482,
+            "SDR": 10.96822,
+            "SAR": 12.92432
+          },
+          "time": 154.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.79591,
+            "ISR": 11.02625,
+            "SDR": 9.94989,
+            "SAR": 12.83594
+          },
+          "time": 155.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.28875,
+            "ISR": 10.38816,
+            "SDR": 9.76349,
+            "SAR": 11.55033
+          },
+          "time": 156.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.30361,
+            "ISR": 10.20758,
+            "SDR": 10.03849,
+            "SAR": 11.14912
+          },
+          "time": 157.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.83755,
+            "ISR": 11.64849,
+            "SDR": 10.82122,
+            "SAR": 13.52220
+          },
+          "time": 158.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 25.69547,
+            "ISR": 10.00696,
+            "SDR": 10.68111,
+            "SAR": 10.95190
+          },
+          "time": 159.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 160.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.06415,
+            "ISR": 10.41892,
+            "SDR": 9.14323,
+            "SAR": 11.96318
+          },
+          "time": 161.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.60321,
+            "ISR": 10.88234,
+            "SDR": 9.99625,
+            "SAR": 12.72375
+          },
+          "time": 162.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 25.47646,
+            "ISR": 9.73709,
+            "SDR": 11.04196,
+            "SAR": 12.22771
+          },
+          "time": 163.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.24255,
+            "ISR": 7.07933,
+            "SDR": 4.07314,
+            "SAR": 6.59402
+          },
+          "time": 164.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.73030,
+            "ISR": 1.85534,
+            "SDR": 7.65276,
+            "SAR": 3.07729
+          },
+          "time": 165.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.28487,
+            "ISR": 1.97324,
+            "SDR": 10.68759,
+            "SAR": 3.45158
+          },
+          "time": 166.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 41.85069,
+            "ISR": 5.40932,
+            "SDR": 8.72436,
+            "SAR": 5.49818
+          },
+          "time": 167.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.56968,
+            "ISR": 8.75148,
+            "SDR": 9.44309,
+            "SAR": 9.16192
+          },
+          "time": 168.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.21969,
+            "ISR": 9.84800,
+            "SDR": 8.59049,
+            "SAR": 11.20866
+          },
+          "time": 169.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.52881,
+            "ISR": 10.46164,
+            "SDR": 9.97768,
+            "SAR": 11.75029
+          },
+          "time": 170.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 26.23074,
+            "ISR": 8.91285,
+            "SDR": 9.02309,
+            "SAR": 10.27946
+          },
+          "time": 171.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.82880,
+            "ISR": 8.76347,
+            "SDR": 8.08592,
+            "SAR": 9.65309
+          },
+          "time": 172.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.66287,
+            "ISR": 9.95775,
+            "SDR": 9.70766,
+            "SAR": 10.51930
+          },
+          "time": 173.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.20314,
+            "ISR": 8.96602,
+            "SDR": 8.11599,
+            "SAR": 10.03905
+          },
+          "time": 174.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 38.63353,
+            "ISR": 9.31984,
+            "SDR": 9.59307,
+            "SAR": 11.48503
+          },
+          "time": 175.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 26.25574,
+            "ISR": 9.01676,
+            "SDR": 7.54560,
+            "SAR": 10.38702
+          },
+          "time": 176.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.14506,
+            "ISR": 9.53903,
+            "SDR": 9.22960,
+            "SAR": 10.44733
+          },
+          "time": 177.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.85140,
+            "ISR": 7.08799,
+            "SDR": 7.54130,
+            "SAR": 8.20647
+          },
+          "time": 178.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 59.79368,
+            "ISR": 8.63710,
+            "SDR": 8.83531,
+            "SAR": 10.10821
+          },
+          "time": 179.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.83162,
+            "ISR": 9.52767,
+            "SDR": 8.27293,
+            "SAR": 10.73052
+          },
+          "time": 180.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.44528,
+            "ISR": 10.85075,
+            "SDR": 7.89314,
+            "SAR": 10.55355
+          },
+          "time": 181.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.44819,
+            "ISR": 9.12231,
+            "SDR": 8.15407,
+            "SAR": 9.81732
+          },
+          "time": 182.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.44484,
+            "ISR": 9.01504,
+            "SDR": 8.72568,
+            "SAR": 10.05214
+          },
+          "time": 183.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 17.32152,
+            "ISR": 9.14819,
+            "SDR": 7.73612,
+            "SAR": 10.52038
+          },
+          "time": 184.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.54043,
+            "ISR": 10.88991,
+            "SDR": 9.53699,
+            "SAR": 13.12400
+          },
+          "time": 185.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.55446,
+            "ISR": 8.59720,
+            "SDR": 7.61812,
+            "SAR": 11.72339
+          },
+          "time": 186.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.88136,
+            "ISR": 10.02302,
+            "SDR": 8.99318,
+            "SAR": 12.10697
+          },
+          "time": 187.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.71974,
+            "ISR": 9.09304,
+            "SDR": 7.47237,
+            "SAR": 9.73573
+          },
+          "time": 188.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.33465,
+            "ISR": 9.10144,
+            "SDR": 7.76861,
+            "SAR": 8.42382
+          },
+          "time": 189.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.01583,
+            "ISR": 8.05624,
+            "SDR": 9.83217,
+            "SAR": 8.68471
+          },
+          "time": 190.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.53142,
+            "ISR": 8.74108,
+            "SDR": 7.99977,
+            "SAR": 10.03795
+          },
+          "time": 191.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.97409,
+            "ISR": 8.04799,
+            "SDR": 6.70579,
+            "SAR": 10.53598
+          },
+          "time": 192.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.81039,
+            "ISR": 7.98607,
+            "SDR": 6.67772,
+            "SAR": 11.57814
+          },
+          "time": 193.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.65893,
+            "ISR": 6.15392,
+            "SDR": 4.94361,
+            "SAR": 10.26361
+          },
+          "time": 194.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.51279,
+            "ISR": 6.40652,
+            "SDR": 4.91871,
+            "SAR": 9.68714
+          },
+          "time": 195.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.84010,
+            "ISR": 7.46274,
+            "SDR": 5.83265,
+            "SAR": 10.78588
+          },
+          "time": 196.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.37695,
+            "ISR": 6.56871,
+            "SDR": 5.57294,
+            "SAR": 10.22398
+          },
+          "time": 197.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.78201,
+            "ISR": 6.01736,
+            "SDR": 5.24465,
+            "SAR": 9.16662
+          },
+          "time": 198.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.84362,
+            "ISR": 6.55226,
+            "SDR": 5.29739,
+            "SAR": 9.28012
+          },
+          "time": 199.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.67975,
+            "ISR": 7.49253,
+            "SDR": 6.11197,
+            "SAR": 12.47945
+          },
+          "time": 200.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.33823,
+            "ISR": 6.91758,
+            "SDR": 5.42254,
+            "SAR": 10.44312
+          },
+          "time": 201.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.30681,
+            "ISR": 6.05938,
+            "SDR": 4.98328,
+            "SAR": 8.50322
+          },
+          "time": 202.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.23333,
+            "ISR": 5.93948,
+            "SDR": 5.12576,
+            "SAR": 8.46729
+          },
+          "time": 203.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.54744,
+            "ISR": 7.27888,
+            "SDR": 6.00983,
+            "SAR": 11.77396
+          },
+          "time": 204.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.84502,
+            "ISR": 5.81389,
+            "SDR": 5.07520,
+            "SAR": 7.55671
+          },
+          "time": 205.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.36423,
+            "ISR": 5.77123,
+            "SDR": 5.15739,
+            "SAR": 8.07546
+          },
+          "time": 206.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.95741,
+            "ISR": 6.16357,
+            "SDR": 5.86398,
+            "SAR": 7.82839
+          },
+          "time": 207.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.55185,
+            "ISR": 5.93263,
+            "SDR": 5.52005,
+            "SAR": 7.72443
+          },
+          "time": 208.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.02927,
+            "ISR": 6.03877,
+            "SDR": 4.94793,
+            "SAR": 10.02120
+          },
+          "time": 209.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.56286,
+            "ISR": 6.48288,
+            "SDR": 5.30404,
+            "SAR": 10.34056
+          },
+          "time": 210.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.95169,
+            "ISR": 7.06306,
+            "SDR": 6.13667,
+            "SAR": 10.85424
+          },
+          "time": 211.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.71665,
+            "ISR": 6.20317,
+            "SDR": 5.05697,
+            "SAR": 9.30792
+          },
+          "time": 212.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.78070,
+            "ISR": 5.61308,
+            "SDR": 6.06728,
+            "SAR": 7.25793
+          },
+          "time": 213.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.60481,
+            "ISR": 5.44913,
+            "SDR": 5.39293,
+            "SAR": 6.64371
+          },
+          "time": 214.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.07487,
+            "ISR": 6.60624,
+            "SDR": 5.41817,
+            "SAR": 10.36298
+          },
+          "time": 215.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.70261,
+            "ISR": 6.82788,
+            "SDR": 5.88551,
+            "SAR": 10.59334
+          },
+          "time": 216.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.97381,
+            "ISR": 6.87056,
+            "SDR": 5.74873,
+            "SAR": 10.47364
+          },
+          "time": 217.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 26.67165,
+            "ISR": 6.07797,
+            "SDR": 5.18628,
+            "SAR": 9.13513
+          },
+          "time": 218.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.12641,
+            "ISR": 4.66475,
+            "SDR": 5.22634,
+            "SAR": 5.75810
+          },
+          "time": 219.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.15366,
+            "ISR": 4.84232,
+            "SDR": 5.72692,
+            "SAR": 5.96906
+          },
+          "time": 220.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.57030,
+            "ISR": 6.35689,
+            "SDR": 5.34595,
+            "SAR": 9.07321
+          },
+          "time": 221.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.38859,
+            "ISR": 6.97809,
+            "SDR": 5.83259,
+            "SAR": 10.12584
+          },
+          "time": 222.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.11552,
+            "ISR": 6.46943,
+            "SDR": 4.88848,
+            "SAR": 8.88676
+          },
+          "time": 223.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.16428,
+            "ISR": 3.88210,
+            "SDR": 4.14220,
+            "SAR": 4.81270
+          },
+          "time": 224.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.19316,
+            "ISR": 3.55794,
+            "SDR": 4.23567,
+            "SAR": 4.55957
+          },
+          "time": 225.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 25.67756,
+            "ISR": 5.63148,
+            "SDR": 4.51897,
+            "SAR": 8.41765
+          },
+          "time": 226.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.54495,
+            "ISR": 5.37176,
+            "SDR": 4.56705,
+            "SAR": 8.91807
+          },
+          "time": 227.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 30.77112,
+            "ISR": 6.68930,
+            "SDR": 5.94290,
+            "SAR": 11.17819
+          },
+          "time": 228.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.52733,
+            "ISR": 5.90268,
+            "SDR": 4.89101,
+            "SAR": 10.25212
+          },
+          "time": 229.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 26.90017,
+            "ISR": 5.16904,
+            "SDR": 4.52399,
+            "SAR": 7.80114
+          },
+          "time": 230.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 24.83942,
+            "ISR": 4.30535,
+            "SDR": 5.86990,
+            "SAR": 5.50366
+          },
+          "time": 231.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 27.70095,
+            "ISR": 3.87755,
+            "SDR": 5.18574,
+            "SAR": 5.18649
+          },
+          "time": 232.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.64944,
+            "ISR": 5.91909,
+            "SDR": 4.75669,
+            "SAR": 9.46804
+          },
+          "time": 233.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 24.76650,
+            "ISR": 5.54294,
+            "SDR": 4.48992,
+            "SAR": 8.43108
+          },
+          "time": 234.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 24.70167,
+            "ISR": 6.61150,
+            "SDR": 5.99176,
+            "SAR": 10.49334
+          },
+          "time": 235.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 23.86053,
+            "ISR": 5.61373,
+            "SDR": 4.91753,
+            "SAR": 9.76126
+          },
+          "time": 236.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 22.17948,
+            "ISR": 5.54074,
+            "SDR": 5.16233,
+            "SAR": 7.82359
+          },
+          "time": 237.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.21627,
+            "ISR": 5.61735,
+            "SDR": 4.77762,
+            "SAR": 7.86147
+          },
+          "time": 238.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.13299,
+            "ISR": 6.13035,
+            "SDR": 3.56869,
+            "SAR": 6.14863
+          },
+          "time": 239.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 17.72804,
+            "ISR": 5.70940,
+            "SDR": 5.10001,
+            "SAR": 8.39675
+          },
+          "time": 240.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.74748,
+            "ISR": 5.44524,
+            "SDR": 4.62876,
+            "SAR": 7.06604
+          },
+          "time": 241.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.97173,
+            "ISR": 5.45057,
+            "SDR": 5.26914,
+            "SAR": 7.27252
+          },
+          "time": 242.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.40530,
+            "ISR": 6.46943,
+            "SDR": 5.85144,
+            "SAR": 9.43240
+          },
+          "time": 243.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.51982,
+            "ISR": 5.79160,
+            "SDR": 4.83092,
+            "SAR": 9.22793
+          },
+          "time": 244.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.68656,
+            "ISR": 5.85693,
+            "SDR": 4.88856,
+            "SAR": 8.68481
+          },
+          "time": 245.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.73373,
+            "ISR": 7.00750,
+            "SDR": 6.19381,
+            "SAR": 9.25459
+          },
+          "time": 246.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.29141,
+            "ISR": 6.45824,
+            "SDR": 5.69697,
+            "SAR": 9.01767
+          },
+          "time": 247.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.83420,
+            "ISR": 6.24760,
+            "SDR": 5.03661,
+            "SAR": 9.49005
+          },
+          "time": 248.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.94291,
+            "ISR": 6.25940,
+            "SDR": 5.01858,
+            "SAR": 9.28534
+          },
+          "time": 249.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.18832,
+            "ISR": 7.08595,
+            "SDR": 5.98622,
+            "SAR": 10.39185
+          },
+          "time": 250.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.46240,
+            "ISR": 5.64204,
+            "SDR": 4.97753,
+            "SAR": 8.31734
+          },
+          "time": 251.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 19.29225,
+            "ISR": 5.79602,
+            "SDR": 4.86554,
+            "SAR": 8.75009
+          },
+          "time": 252.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 21.53197,
+            "ISR": 5.65877,
+            "SDR": 5.57108,
+            "SAR": 6.45284
+          },
+          "time": 253.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 20.00663,
+            "ISR": 5.62175,
+            "SDR": 5.40371,
+            "SAR": 6.87607
+          },
+          "time": 254.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 18.53864,
+            "ISR": 6.01869,
+            "SDR": 5.31740,
+            "SAR": 6.85853
+          },
+          "time": 255.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 14.71781,
+            "ISR": 4.76222,
+            "SDR": 4.18766,
+            "SAR": 3.80945
+          },
+          "time": 256.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 14.60073,
+            "ISR": 6.63913,
+            "SDR": 5.06511,
+            "SAR": 6.04211
+          },
+          "time": 257.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 13.01088,
+            "ISR": 6.30521,
+            "SDR": 5.11875,
+            "SAR": 5.64127
+          },
+          "time": 258.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 12.86843,
+            "ISR": 6.27098,
+            "SDR": 7.07645,
+            "SAR": 5.15169
+          },
+          "time": 259.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 8.14545,
+            "ISR": 5.68941,
+            "SDR": 4.73314,
+            "SAR": 3.32101
+          },
+          "time": 260.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 8.03215,
+            "ISR": 5.10063,
+            "SDR": 5.23526,
+            "SAR": 2.90170
+          },
+          "time": 261.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 9.28069,
+            "ISR": 5.69854,
+            "SDR": 5.29926,
+            "SAR": 3.15137
+          },
+          "time": 262.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 50.71480,
+            "ISR": 6.72807,
+            "SDR": 20.96589,
+            "SAR": 4.35048
+          },
+          "time": 263.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": 54.32973,
+            "ISR": 6.82713,
+            "SDR": 24.05042,
+            "SAR": 4.53503
+          },
+          "time": 264.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 265.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 266.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 267.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 268.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 269.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 270.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 271.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 272.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 273.0
+        },
+        {
+          "duration": 1.0,
+          "metrics": {
+            "SIR": NaN,
+            "ISR": NaN,
+            "SDR": NaN,
+            "SAR": NaN
+          },
+          "time": 274.0
+        }
+      ],
+      "name": "accompaniment"
+    }
+  ]
+}
